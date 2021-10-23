@@ -4,14 +4,14 @@
 <h3 align="center">I'm a passionate Software Developer.</h3>
 <br>
 
-## 👩🏻‍💻 About Me
+<h2 align="left"> 👩🏻‍💻 About Me </h2>
 
 <!-- 🔭 I’m currently working on -->
 - 💻 I’m currently learning **Node.js** and **Machine Learnig**.
 
 <br>
 
-<h3 align="left">⚡ Languages and Tools:</h3>
+<h2 align="left">⚡ Languages and Tools </h2>
 
 <p align="left"> 
     <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
