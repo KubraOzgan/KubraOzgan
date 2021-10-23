@@ -32,10 +32,9 @@
 <br/>
 
 
-## Connect with me:
+<h2 align="left">Connect with me </h2>
+
 <p align="left">
-
-<a href = "https://www.linkedin.com/in/kübra-özgan/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "mailto:kubraozgan3@gmail.com"><img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" width="48" height="48"/></a>
-
+    <a href = "https://www.linkedin.com/in/kübra-özgan/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+    <a href = "mailto:kubraozgan3@gmail.com"><img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" width="48" height="48"/></a>
 </p>
