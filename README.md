@@ -9,6 +9,8 @@
 <!-- 🔭 I’m currently working on -->
 - 💻 I’m currently learning **Node.js** and **Machine Learnig**.
 
+<br>
+
 ## ⚡ Languages and Tools:
 
 <p align="left"> 
