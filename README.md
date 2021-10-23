@@ -7,7 +7,7 @@
 <h2 align="left"> 👩🏻‍💻 About Me </h2>
 
 <!-- 🔭 I’m currently working on -->
-<p align="left">- 💻 I’m currently learning **Node.js** and **Machine Learnig**.</p>
+<p align="left">- 💻 I’m currently learning <b>Node.js</b> and <b>Machine Learnig</b>.</p>
 
 <br>
 
