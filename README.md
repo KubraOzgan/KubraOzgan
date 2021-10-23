@@ -11,7 +11,7 @@
 
 <br>
 
-<p align="left">## ⚡ Languages and Tools:<p>
+##<p align="left">⚡ Languages and Tools:</p>
 
 <p align="left"> 
     <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
