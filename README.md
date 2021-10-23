@@ -1,4 +1,4 @@
-<div align="center"><img width="20%" height="auto" src="https://ivoirecode.com/ivoire/public/public/graphics/August2019/o0ud62m5sPLaLeLOjrub.jpg" height="175px"/></a>
+<div align="center"><img width="30%" height="auto" src="https://ivoirecode.com/ivoire/public/public/graphics/August2019/o0ud62m5sPLaLeLOjrub.jpg" height="175px"/></a>
 
 <h1 align="center">Hello, I'm Kübra 🙋🏻‍♀️</h1>
 <h3 align="center">I'm a passionate Software Developer.</h3>
