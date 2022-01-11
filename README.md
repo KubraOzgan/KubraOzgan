@@ -14,10 +14,10 @@
 
 <p align="left"> 
     <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
     <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a>
+    <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <img src="https://img.icons8.com/fluency/48/000000/android-os.png"/> </a>
     <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a> 
     <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/></a>
