@@ -1,13 +1,7 @@
 
 <h1 align="center">Hello, I'm Kübra 🙋🏻‍♀️</h1>
-<h3 align="center">I'm a passionate Software Developer.</h3>
+<h3 align="center">Software Developer.</h3>
 <br>
-
-<h2 align="left"> 👩🏻‍💻 About Me </h2>
-
-<!-- 🔭 I’m currently working on -->
-<p align="left">- 💻 I’m currently improving my <b>Java</b> skills and also learning <b>Node.js</b>.</p>
-
 <br>
 
 <h2 align="left">⚡ Languages and Tools </h2>
@@ -16,7 +10,6 @@
     <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a>
     <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a> 
     <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/></a>
