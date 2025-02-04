@@ -26,5 +26,5 @@
 
 <p align="left">
     <a href = "https://www.linkedin.com/in/kübra-özgan/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-    <a href = "mailto:kubraozgan3@gmail.com"><img src="https://commons.wikimedia.org/wiki/File:Gmail_icon_%282020%29.svg" width="48" height="48"/></a>
+    <a href = "mailto:kubraozgan3@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="48" height="48"/></a>
 </p>
