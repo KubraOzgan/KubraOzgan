@@ -10,7 +10,6 @@
     <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a> 
     <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/></a>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
