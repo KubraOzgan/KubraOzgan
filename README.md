@@ -1,11 +1,3 @@
-
-<h1 align="center">Hello, I'm Kübra 🙋🏻‍♀️</h1>
-<h3 align="center">Software Engineer</h3>
-<br>
-<br>
-
-<h2 align="left">⚡ Languages and Tools </h2>
-
 <p align="left"> 
     <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
